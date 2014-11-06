@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>--company-id</key>
+	<string>com.kokinomura</string>
+	<key>--ignore</key>
+	<array>
+		<string>ThirdParty</string>
+		<string>Libraries</string>
+		<string>Frameworks</string>
+		<string>Testing</string>
+		<string>Pods</string>
+	</array>
+	<key>--logformat</key>
+	<integer>0</integer>
+	<key>--print-settings</key>
+	<true/>
+	<key>--project-company</key>
+	<string>Koki Nomura</string>
+	<key>--project-name</key>
+	<string>Project Name</string>
+	<key>--repeat-first-par</key>
+	<false/>
+	<key>--verbose</key>
+	<string>0</string>
+	<key>--templates</key>
+	<string>~/Documents/github/appledoc-template/Templates</string>
+	<key>--output</key>
+	<string>./docs</string>
+	<key>--create-docset</key>
+	<false/>
+	<key>--exit-threshold</key>
+	<integer>4</integer>
+<!--	<key>--keep-undocumented-objects</key>
+	<true/>-->
+	<key>--keep-undocumented-members</key>
+	<true/>
+</dict>
+</plist>
